@@ -20,8 +20,9 @@
 
 ---
 
-### 📈 GitHub Stats:
-![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev123chauhan&show_icons=true&theme=tokyonight)
+## 🛤 My Journey
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev123chauhan&layout=compact&theme=tokyonight&langs_count=8)
 
 ---
 
