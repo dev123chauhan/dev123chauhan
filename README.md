@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Devesh Chauhan</h1>
+<h3 align="center">A passionate full-stack developer</h3>
 
-<!--
-**dev123chauhan/dev123chauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **a Company Web App**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Python, AI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolioweb-application.netlify.app)
+
+- 📫 How to reach me **devesh123chauhan@email.com**
+
+- ⚡ Fun fact **I love clean UI and animated dashboards**
+
+---
+
+### 🛠️ Languages and Tools:
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,github,figma,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Stats:
+![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev123chauhan&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://instagram.com/yourprofile)
