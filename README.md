@@ -26,5 +26,5 @@
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://instagram.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devesh-chauhan-492964244/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://instagram.com/devesh8632)
