@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolioweb-application.netlify.app)
 
-- 📫 How to reach me **devesh123chauhan@email.com**
+- 📫 How to reach me **devesh123chauhan@gmail.com**
 
 - ⚡ Fun fact **I love clean UI and animated dashboards**
 
