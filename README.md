@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devesh Chauhan</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🔭 I’m currently working on **a Company Web App**
-
 - 🌱 I’m currently learning **Python, AI**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolioweb-application.netlify.app)
