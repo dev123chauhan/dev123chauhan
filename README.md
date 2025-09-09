@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devesh Chauhan</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🌱 I’m currently learning **Python, AI**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolioweb-application.netlify.app)
 
